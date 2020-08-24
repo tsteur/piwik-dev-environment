@@ -1,6 +1,8 @@
 Piwik Development Environment
 =====================
 
+**This project is no longer maintaned unfortunately. If you are keen to continue supporting this project please [reach out to us](https://matomo.org/contact/).**
+
 This configuration makes it very easy to start with Piwik development or to give Piwik a try in your local environment. It'll setup a virtual machine including everything you need to run Piwik. The Piwik project itself will be cloned into a shared/synced folder `www/piwik` which makes it easy to change files within your host IDE. You even do not need to run the VM to change something. 
 
 Need more information? Have a look here: http://piwik.org/blog/2012/08/get-started-with-piwik-development-with-puppet-and-vagrant/
